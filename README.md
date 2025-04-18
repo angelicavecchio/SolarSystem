@@ -17,7 +17,6 @@ This is a simple 2D solar system animated model using javaFX.
 
 ## Demo
 
-
-<img src="ScreenshotDemo.png" width="500" alt="Solar System Screenshot"/>
+![alt text](image.png)
 ---
 
